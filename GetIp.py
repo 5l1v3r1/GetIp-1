@@ -1,6 +1,6 @@
 #!/usr/bin/python
-#Coded By Benelhaj_younes
-#FindMe On Instagram @benelhaj_younes
+#Coded By r2dr0dn
+#Twit @r2dr0dn
 
 # IMPORT LIBRARIES #
 
@@ -182,7 +182,7 @@ print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"                   "+Green+"["+Red+"GetIp"+Green+"]"+Blue+"         ")
-print("     "+purple+"          "+yellow+"["+purple+"Created By Benelhaj_younes"+yellow+"]"+yellow+"    "+Reset+"\n")
+print("     "+purple+"          "+yellow+"["+purple+"   Created By r2dr0dn"+yellow+"]"+yellow+"    "+Reset+"\n")
 parse = optparse.OptionParser("""\
 \033[96m
 Usage:
@@ -488,9 +488,4 @@ def main():
 if __name__=="__main__":
 	main()
 
-##############################################################
-##################### 		         #########################
-#####################   END OF TOOL  #########################
-#####################                #########################
-##############################################################
-################ Have Fun And keep Relaxing ##################
+##'-'!!
